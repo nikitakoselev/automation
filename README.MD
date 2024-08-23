@@ -1,0 +1,1 @@
+A project to ease my life and work with automation
